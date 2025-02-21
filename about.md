@@ -1,0 +1,1 @@
+# À propos du projet\n\nCe projet démontre l'utilisation des fonctionnalités de base de Git et GitHub.\n\nObjectifs :\n- Maîtriser les commandes Git\n- Comprendre le workflow GitHub\n- Utiliser les Pull Requests
